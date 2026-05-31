@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up Conga 999",
+        "data": {
+          "ip_address": "IP Address",
+          "device_id": "Device ID (Tuya)",
+          "local_key": "Local Key (Tuya)"
+        }
+      }
+    }
+  }
+}

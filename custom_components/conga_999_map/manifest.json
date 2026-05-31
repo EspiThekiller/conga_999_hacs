@@ -1,0 +1,11 @@
+{
+  "domain": "conga_999_map",
+  "name": "Conga 999 Map",
+  "codeowners": ["@antigravity"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/example/conga999",
+  "iot_class": "local_polling",
+  "requirements": ["tinytuya==1.13.1"],
+  "version": "1.0.0"
+}
